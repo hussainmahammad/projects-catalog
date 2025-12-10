@@ -1,0 +1,143 @@
+[
+  {
+    "id": "HM001",
+    "title": "PetCart Store",
+    "slug": "petcart-store",
+    "description": "Main e-commerce platform with product browsing, checkout, and serverless backend.",
+    "previewImage": "assets/preview-images/petcart.jpg",
+    "icons": [
+      "assets/aws-icons/lambda.svg",
+      "assets/aws-icons/s3.svg",
+      "assets/aws-icons/dynamo-db.svg",
+      "assets/aws-icons/cloudfront.svg"
+    ],
+    "appRepo": {
+      "url": "https://github.com/hussainmahammad/petcart-store",
+      "branch": "main",
+      "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/petcart-store",
+      "branch": "main",
+      "path": "files"
+    }
+  },
+  {
+    "id": "HM002",
+    "title": "Admin PetCart",
+    "slug": "admin-petcart",
+    "description": "Admin analytics dashboard for PetCart with secure backend and monitoring.",
+    "previewImage": "assets/preview-images/admin.petcart.jpg",
+    "icons": [
+      "assets/aws-icons/rds.svg",
+      "assets/aws-icons/lambda.svg",
+      "assets/aws-icons/cloudwatch.svg",
+      "assets/aws-icons/iam.svg"
+    ],
+    "appRepo": {
+      "url": "https://github.com/hussainmahammad/admin-petcart",
+      "branch": "main",
+      "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/admin-petcart",
+      "branch": "main",
+      "path": "files"
+    }
+  },
+  {
+    "id": "HM003",
+    "title": "Cosmic Threads",
+    "slug": "cosmic-threads",
+    "description": "Modern apparel brand with personalized recommendations and CDN-optimized delivery.",
+    "previewImage": "assets/preview-images/cosmic-threads.png",
+    "icons": [
+      "assets/aws-icons/cloudfront.svg",
+      "assets/aws-icons/s3.svg",
+      "assets/aws-icons/ecr.svg",
+      "assets/aws-icons/ec2.svg"
+    ],
+    "appRepo": {
+      "url": "https://github.com/hussainmahammad/cosmic-threads",
+      "branch": "main",
+      "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/cosmic-threads",
+      "branch": "main",
+      "path": "files"
+    }
+  },
+  {
+    "id": "HM004",
+    "title": "WebLance Hub",
+    "slug": "weblancehub",
+    "description": "DevOps automation platform with CI/CD pipelines and multi-cloud infrastructure.",
+    "previewImage": "assets/preview-images/weblancehub.jpg",
+    "icons": [
+      "assets/aws-icons/ec2.svg",
+      "assets/aws-icons/ecr.svg",
+      "assets/aws-icons/vpc.svg",
+      "assets/aws-icons/cloudwatch.svg",
+      "assets/aws-icons/s3.svg"
+    ],
+    "appRepo": {
+      "url": "https://github.com/hussainmahammad/weblancehub",
+      "branch": "main",
+      "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/weblancehub",
+      "branch": "main",
+      "path": "files"
+    }
+  },
+  {
+    "id": "HM005",
+    "title": "Future Wheels",
+    "slug": "future-wheels",
+    "description": "EV fleet-management platform powered by containers, monitoring, and load balancing.",
+    "previewImage": "assets/preview-images/future-wheels.png",
+    "icons": [
+      "assets/aws-icons/ecs-farget.svg",
+      "assets/aws-icons/cloudwatch.svg",
+      "assets/aws-icons/alb.svg",
+      "assets/aws-icons/s3.svg",
+      "assets/aws-icons/vpc.svg"
+    ],
+    "appRepo": {
+      "url": "https://github.com/hussainmahammad/future-wheels",
+      "branch": "main",
+      "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/future-wheels",
+      "branch": "main",
+      "path": "files"
+    }
+  },
+  {
+    "id": "HM006",
+    "title": "Space Canvas",
+    "slug": "space-canvas",
+    "description": "Online creative collaboration app with large media storage and global delivery.",
+    "previewImage": "assets/preview-images/space-canvas.png",
+    "icons": [
+      "assets/aws-icons/s3.svg",
+      "assets/aws-icons/route53.svg",
+      "assets/aws-icons/cloudfront.svg",
+      "assets/aws-icons/vpc.svg"
+    ],
+    "appRepo": {
+      "url": "https://github.com/hussainmahammad/space-canvas",
+      "branch": "main",
+      "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/space-canvas",
+      "branch": "main",
+      "path": "files"
+    }
+  }
+]
+
