@@ -45,31 +45,9 @@
       "path": "files"
     }
   },
+  
   {
     "id": "HM003",
-    "title": "Cosmic Threads",
-    "slug": "cosmic-threads",
-    "description": "Modern apparel brand with personalized recommendations and CDN-optimized delivery.",
-    "previewImage": "assets/preview-images/cosmic-threads.png",
-    "icons": [
-      "assets/aws-icons/cloudfront.svg",
-      "assets/aws-icons/s3.svg",
-      "assets/aws-icons/ecr.svg",
-      "assets/aws-icons/ec2.svg"
-    ],
-    "appRepo": {
-      "url": "https://github.com/hussainmahammad/cosmic-threads",
-      "branch": "main",
-      "path": "app"
-    },
-    "filesRepo": {
-      "url": "https://github.com/hussainmahammad/cosmic-threads",
-      "branch": "main",
-      "path": "files"
-    }
-  },
-  {
-    "id": "HM004",
     "title": "WebLance Hub",
     "slug": "weblancehub",
     "description": "DevOps automation platform with CI/CD pipelines and multi-cloud infrastructure.",
@@ -88,6 +66,29 @@
     },
     "filesRepo": {
       "url": "https://github.com/hussainmahammad/weblancehub",
+      "branch": "main",
+      "path": "files"
+    }
+  },
+  {
+    "id": "HM004",
+    "title": "Cosmic Threads",
+    "slug": "cosmic-threads",
+    "description": "Modern apparel brand with personalized recommendations and CDN-optimized delivery.",
+    "previewImage": "assets/preview-images/cosmic-threads.png",
+    "icons": [
+      "assets/aws-icons/cloudfront.svg",
+      "assets/aws-icons/s3.svg",
+      "assets/aws-icons/ecr.svg",
+      "assets/aws-icons/ec2.svg"
+    ],
+    "appRepo": {
+      "url": "https://github.com/hussainmahammad/cosmic-threads",
+      "branch": "main",
+      "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/cosmic-threads",
       "branch": "main",
       "path": "files"
     }
@@ -140,4 +141,3 @@
     }
   }
 ]
-
