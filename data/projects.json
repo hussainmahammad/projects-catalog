@@ -97,8 +97,8 @@
     "id": "HM005",
     "title": "chatwoot",
     "slug": "chatwoot",
-    "description": "Chatwoot is a customer support tool that lets businesses manage and respond to messages from multiple channels like website chat, email, WhatsApp, and social media in one place.",
-    "previewImage": "assets/preview-images/future-wheels.png",
+    "description": "Chatwoot is a customer support tool that lets businesses manage and respond to messages from multiple channels.",
+    "previewImage": "assets/preview-images/chatwoot.png",
     "icons": [
       "assets/aws-icons/ecs-farget.svg",
       "assets/aws-icons/cloudwatch.svg",
