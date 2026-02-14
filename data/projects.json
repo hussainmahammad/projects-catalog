@@ -95,9 +95,9 @@
   },
   {
     "id": "HM005",
-    "title": "Future Wheels",
-    "slug": "future-wheels",
-    "description": "EV fleet-management platform powered by containers, monitoring, and load balancing.",
+    "title": "chatwoot",
+    "slug": "chatwoot",
+    "description": "Chatwoot is a customer support tool that lets businesses manage and respond to messages from multiple channels like website chat, email, WhatsApp, and social media in one place.",
     "previewImage": "assets/preview-images/future-wheels.png",
     "icons": [
       "assets/aws-icons/ecs-farget.svg",
@@ -107,12 +107,12 @@
       "assets/aws-icons/vpc.svg"
     ],
     "appRepo": {
-      "url": "https://github.com/hussainmahammad/future-wheels",
+      "url": "https://github.com/hussainmahammad/chatwoot",
       "branch": "main",
       "path": "app"
     },
     "filesRepo": {
-      "url": "https://github.com/hussainmahammad/future-wheels",
+      "url": "https://github.com/hussainmahammad/chatwoot",
       "branch": "main",
       "path": "files"
     }
