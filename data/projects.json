@@ -3,6 +3,7 @@
     "id": "HM001",
     "title": "PetCart Store",
     "slug": "petcart-store",
+    "supportedRuntimes": ["ec2", "eks-fargate", "eks-ec2"],
     "description": "Main e-commerce platform with product browsing, checkout, and serverless backend.",
     "previewImage": "assets/preview-images/petcart.jpg",
     "icons": [
@@ -26,6 +27,7 @@
     "id": "HM002",
     "title": "Admin PetCart",
     "slug": "admin-petcart",
+    "supportedRuntimes": ["generic"],
     "description": "Admin analytics dashboard for PetCart with secure backend and monitoring.",
     "previewImage": "assets/preview-images/admin.petcart.jpg",
     "icons": [
@@ -50,6 +52,7 @@
     "id": "HM003",
     "title": "WebLance Hub",
     "slug": "weblancehub",
+    "supportedRuntimes": ["generic"],
     "description": "DevOps automation platform with CI/CD pipelines and multi-cloud infrastructure.",
     "previewImage": "assets/preview-images/weblancehub.jpg",
     "icons": [
@@ -74,6 +77,7 @@
     "id": "HM004",
     "title": "PDF Tools",
     "slug": "pdf-tools",
+    "supportedRuntimes": ["generic"],
     "description": "All-in-One PDF Tool which can do Merge, Split, Lock & Unlock PDFs instantly in your browser",
     "previewImage": "assets/preview-images/pdf-tools.png",
     "icons": [
@@ -97,6 +101,7 @@
     "id": "HM005",
     "title": "chatwoot",
     "slug": "chatwoot",
+    "supportedRuntimes": ["generic"],
     "description": "Chatwoot is a customer support tool that lets businesses manage and respond to messages from multiple channels.",
     "previewImage": "assets/preview-images/chatwoot.png",
     "icons": [
@@ -121,6 +126,7 @@
     "id": "HM006",
     "title": "Space Canvas",
     "slug": "space-canvas",
+    "supportedRuntimes": ["generic"],
     "description": "Online creative collaboration app with large media storage and global delivery.",
     "previewImage": "assets/preview-images/space-canvas.png",
     "icons": [
