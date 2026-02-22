@@ -72,10 +72,10 @@
   },
   {
     "id": "HM004",
-    "title": "Cosmic Threads",
-    "slug": "cosmic-threads",
-    "description": "Modern apparel brand with personalized recommendations and CDN-optimized delivery.",
-    "previewImage": "assets/preview-images/cosmic-threads.png",
+    "title": "PDF Tools",
+    "slug": "pdf-tools",
+    "description": "All-in-One PDF Tool which can do Merge, Split, Lock & Unlock PDFs instantly in your browser",
+    "previewImage": "assets/preview-images/pdf-tools.png",
     "icons": [
       "assets/aws-icons/cloudfront.svg",
       "assets/aws-icons/s3.svg",
@@ -83,12 +83,12 @@
       "assets/aws-icons/ec2.svg"
     ],
     "appRepo": {
-      "url": "https://github.com/hussainmahammad/cosmic-threads",
+      "url": "https://github.com/hussainmahammad/pdf-tools",
       "branch": "main",
       "path": "app"
     },
     "filesRepo": {
-      "url": "https://github.com/hussainmahammad/cosmic-threads",
+      "url": "https://github.com/hussainmahammad/pdf-tools",
       "branch": "main",
       "path": "files"
     }
