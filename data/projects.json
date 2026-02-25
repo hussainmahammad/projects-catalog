@@ -47,32 +47,6 @@
       "path": "files"
     }
   },
-  
-  {
-    "id": "HM003",
-    "title": "WebLance Hub",
-    "slug": "weblancehub",
-    "supportedRuntimes": ["generic"],
-    "description": "DevOps automation platform with CI/CD pipelines and multi-cloud infrastructure.",
-    "previewImage": "assets/preview-images/weblancehub.jpg",
-    "icons": [
-      "assets/aws-icons/ec2.svg",
-      "assets/aws-icons/ecr.svg",
-      "assets/aws-icons/vpc.svg",
-      "assets/aws-icons/cloudwatch.svg",
-      "assets/aws-icons/s3.svg"
-    ],
-    "appRepo": {
-      "url": "https://github.com/hussainmahammad/weblancehub",
-      "branch": "main",
-      "path": "app"
-    },
-    "filesRepo": {
-      "url": "https://github.com/hussainmahammad/weblancehub",
-      "branch": "main",
-      "path": "files"
-    }
-  },
   {
     "id": "HM004",
     "title": "PDF Tools",
@@ -105,7 +79,7 @@
     "description": "Chatwoot is a customer support tool that lets businesses manage and respond to messages from multiple channels.",
     "previewImage": "assets/preview-images/chatwoot.png",
     "icons": [
-      "assets/aws-icons/ecs-farget.svg",
+      "assets/aws-icons/ecs-fargate.svg",
       "assets/aws-icons/cloudwatch.svg",
       "assets/aws-icons/alb.svg",
       "assets/aws-icons/s3.svg",
