@@ -50,7 +50,7 @@
   
   {
     "id": "HM003",
-    "title": "Dummy",
+    "title": "WebLance Hub",
     "slug": "weblancehub",
     "supportedRuntimes": ["generic"],
     "description": "DevOps automation platform with CI/CD pipelines and multi-cloud infrastructure.",
@@ -164,5 +164,11 @@
       "url": "https://github.com/hussainmahammad/weblancehub",
       "branch": "main",
       "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/weblancehub",
+      "branch": "main",
+      "path": "files"
     }
+  }
 ]
