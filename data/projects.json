@@ -150,7 +150,7 @@
     "id": "HM007",
     "title": "WebLance Hub",
     "slug": "weblancehub",
-    "supportedRuntimes": ["generic"],
+    "supportedRuntimes": ["ec2", "eks-fargate", "eks-ec2"],
     "description": "DevOps automation platform with CI/CD pipelines and multi-cloud infrastructure.",
     "previewImage": "assets/preview-images/weblancehub.jpg",
     "icons": [
