@@ -27,7 +27,7 @@
     "id": "HM002",
     "title": "Admin PetCart",
     "slug": "admin-petcart",
-    "supportedRuntimes": ["generic"],
+    "supportedRuntimes": ["ec2", "eks-fargate", "eks-ec2"],
     "description": "Admin analytics dashboard for PetCart with secure backend and monitoring.",
     "previewImage": "assets/preview-images/admin.petcart.jpg",
     "icons": [
