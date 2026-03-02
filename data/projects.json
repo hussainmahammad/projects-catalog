@@ -52,7 +52,7 @@
     "title": "Personal Files Cloud",
     "slug": "personal-files-cloud",
     "supportedRuntimes": ["ec2", "eks-fargate", "eks-ec2"],
-    "description": "Secure S3-based personal cloud storage with scalable infrastructure, monitoring, and automated deployment.",
+    "description": "Secure S3-based personal cloud storage with scalable infrastructure and automated deployment.",
     "previewImage": "assets/preview-images/weblancehub.jpg",
     "icons": [
       "assets/aws-icons/ec2.svg",
