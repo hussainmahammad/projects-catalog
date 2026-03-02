@@ -48,6 +48,31 @@
     }
   },
   {
+    "id": "HM003",
+    "title": "Personal Files Cloud",
+    "slug": "personal-files-cloud",
+    "supportedRuntimes": ["ec2", "eks-fargate", "eks-ec2"],
+    "description": "Secure personal cloud storage platform for uploading, managing, and accessing files with scalable DevOps infrastructure.",
+    "previewImage": "assets/preview-images/weblancehub.jpg",
+    "icons": [
+      "assets/aws-icons/ec2.svg",
+      "assets/aws-icons/ecr.svg",
+      "assets/aws-icons/vpc.svg",
+      "assets/aws-icons/cloudwatch.svg",
+      "assets/aws-icons/s3.svg"
+    ],
+    "appRepo": {
+      "url": "https://github.com/hussainmahammad/weblancehub",
+      "branch": "main",
+      "path": "app"
+    },
+    "filesRepo": {
+      "url": "https://github.com/hussainmahammad/weblancehub",
+      "branch": "main",
+      "path": "files"
+    }
+  },
+  {
     "id": "HM004",
     "title": "PDF Tools",
     "slug": "pdf-tools",
