@@ -49,9 +49,9 @@
   },
   {
     "id": "HM003",
-    "title": "Personal Files Cloud",
+    "title": "hsncloud",
     "slug": "personal-files-cloud",
-    "supportedRuntimes": ["ec2", "eks-fargate", "eks-ec2"],
+    "supportedRuntimes": ["ec2"],
     "description": "Secure S3-based personal cloud storage with scalable infrastructure and automated deployment.",
     "previewImage": "assets/preview-images/weblancehub.jpg",
     "icons": [
